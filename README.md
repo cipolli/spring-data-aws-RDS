@@ -1,6 +1,6 @@
 # spring-data-aws-RDS
 
-##############################################################################################################################
+###########################################################
 https://www.youtube.com/watch?v=ZA9WpK-lxXMd
 In this tutorial, I teach you how to use spring boot connecting to a real database with spring profiles using the cloud, more specifically AMAZON WEB SERVICES.
 
@@ -23,7 +23,7 @@ So, this video is split in the following order
 10 – Test changes
 11 – Execute jar files with both profiles and see it in action
 12 – Shut down RDS instanaces to save our free 750 hours of usage.
-##############################################################################################################################
+###########################################################
 
 
 https://cursos.alura.com.br/course/spring-data-jpa
